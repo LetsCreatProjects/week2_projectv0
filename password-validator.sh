@@ -38,14 +38,6 @@ fi
 
 }
 
-# if [ -z "$INPUT" ]; then
-#     echo -e $RED 'Invalid input. Please insert input in this format: {./password-validator.sh "MyPW123"}'
-
-# else
-#     pwValidation "$INPUT"
-# fi
-
-
 # ---------------------------------------------------------------------------------------------
 # Check the option that user has been chosen: a. Password as an input. b. Password inside file
 # ---------------------------------------------------------------------------------------------
